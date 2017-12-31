@@ -1,0 +1,19 @@
+{
+  "name": "sign-flip",
+  "version": "1.0.0",
+  "description": "flip the sign of a number: a minimal approach",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avinassh/sign-flip.git"
+  },
+  "author": "Avinash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avinassh/sign-flip/issues"
+  },
+  "homepage": "https://github.com/avinassh/sign-flip#readme"
+}
