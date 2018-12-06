@@ -1,3 +1,3 @@
 exports.signFlip = function(num) {
-  return num-num*2;
+  return num - (num * 2);
 }
